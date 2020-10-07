@@ -13,7 +13,7 @@
           <li> The AI creates a list of every possible permutation from the boggle board </li>
           <li> It creates a string of every possible word between 3 and 7 words </li>
           <li> The AI then checks the strings from its own word database </li>
-          <li> If the string match a word, the AI then adds the word to a word found for current game Array </li>
+          <li> If the string matches a word, the AI adds the word to a word found for current game Array </li>
         </ul>
       </li>
       <li> 
@@ -22,7 +22,7 @@
           <li> The AI creates a list of every possible permutation from the boggle board </li>
           <li> It creates a string of every possible word between 3 and 7 words </li>
           <li> The AI then checks the strings created using an external word database </li>
-          <li> If the string match a word, the AI then adds the word to it's own word database </li>
+          <li> If the string matches a word, the AI adds the word to it's own word database </li>
           <li> Once all permuations are checked ( training completes ), the AI serializes for future use. </li>
         </ul>
       </li>
